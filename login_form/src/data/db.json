@@ -1,0 +1,64 @@
+{
+  "information": [
+    {
+      "stt": 1,
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "gender": "Male",
+      "phone": "0123456789",
+      "email": "nguyenvana@gmail.com"
+    },
+    {
+      "stt": 2,
+      "id": 2,
+      "name": "Nguyễn Văn B",
+      "gender": "Male",
+      "phone": "0987654321",
+      "email": "tranvanb@gmail.com"
+    },
+    {
+      "stt": 3,
+      "id": 3,
+      "name": "Nguyễn Thị C",
+      "gender": "Female",
+      "phone": "0192837465",
+      "email": "nguyenthic@gmail.com"
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "name": "Ha Noi"
+    },
+    {
+      "id": 2,
+      "name": "Thanh pho Ho Chi Minh"
+    },
+    {
+      "id": 3,
+      "name": "Da Nang"
+    },
+    {
+      "id": 4,
+      "name": "Ha Nam"
+    },
+    {
+      "id": 5,
+      "name": "Ha Dong"
+    }
+  ],
+  "accounts":[
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "thanhhang26",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "username": "Thanh Hang",
+      "password": "hang123",
+      "role": "STUDENT"
+    }
+  ]
+}
